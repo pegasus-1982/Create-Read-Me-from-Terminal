@@ -1,0 +1,1 @@
+{"projectTitle":"Election Audit App","description":"This app will apply statistical methods to identify irregularities","Installation":"Install Luis-Statistics-App","usage":"To detect potential fraud","contributorName":"Rudy, Ben, Tim","testInstructions":"Compare ballots to ballot max capacity","License":"MIT"}
